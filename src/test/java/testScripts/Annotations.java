@@ -18,6 +18,8 @@ public class Annotations {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		
+		
+		
 	}
 
   @Test
